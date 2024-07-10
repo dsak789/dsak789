@@ -52,7 +52,7 @@
 
 # 📊 GitHub Stats⚡
 ![](https://github-readme-stats.vercel.app/api?username=dsak789&theme=dark&hide_border=true&include_all_commits=false&count_private=true&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsak789&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut&langs_count=7)<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsak789&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=pie&langs_count=7)<br><br>
 <img width="330" height="auto" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dsak789&theme=dark&hide_border=true)
 
