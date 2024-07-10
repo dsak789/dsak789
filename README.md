@@ -52,19 +52,19 @@
 
 # 📊 GitHub Stats⚡
 ![](https://github-readme-stats.vercel.app/api?username=dsak789&theme=dark&hide_border=true&include_all_commits=false&count_private=true&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsak789&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=pie&langs_count=7)<br><br>
-<img width="330" height="auto" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsak789&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut&langs_count=5)<br><br>
+<img width="330" height="190" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dsak789&theme=dark&hide_border=true)
 
 <hr>
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dsak789&limit=5&theme=monokai&combine_all_yearly_contributions=true) 
-<img width="330" height="auto" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img width="330" height="270" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dsak789&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- [![](https://visitcount.itsvg.in/api?id=dsak789&icon=0&color=1)](https://visitcount.itsvg.in) -->
